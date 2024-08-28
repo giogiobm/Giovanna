@@ -1,0 +1,48 @@
+1 -  Explique as diferenças entre 3 linguagens de programação:
+
+*Python*:
+
+- Sintaxe simples e legível
+- Muito recomendada para iniciantes 
+- Identação é crucial para ajudar a manter o código organizado
+- Muito utilizada em ciência de dados, aprendizado de máquina, IA, automação e desenvolvimento web 
+- É eficiente para prototipagem rápida e desenvolvimento de scripts
+- Tipagem dinâmica, não precisando declarar o tyipo de uma variável explicitamente
+- Tem uma comunidade vasta e ativa, com muitos recursos e bibliotecas disponíveis 
+
+*JavaScript*:
+
+- Utlizada principalmente para desenvolvimento web
+- Sintaxe um pouco mais complexa pelo uso de chaves e ponto e vírgula
+- Também é usada para desenvolvimento de aplicativos móveis 
+- Geralmente rápida no contecto de aplicações web, especialmente com otimizaçõrs modernas dos motores de JavaScrip nos navegadores
+- Também tem tipagem dinâmica, permitindo flexibilidade na declaração de variáveis 
+- Uma das maiores comunidades de desenvolvedores, com uma infinidade de frameworks e bibliotecas 
+
+*Java*:
+
+- Tem uma sintaxe mais verbosa e rigorosa
+- É uma linguagem fortemente tipada, o que significa que você precisa declarar o tipo de cada variável 
+- Amplamente usada em desenvolvimento de aplicativos empresariais, Android, e sistemas de grande escala 
+- É conhecido por sua portabilidade, graças à JVM (Java Virtual Machine)
+- Conhecida por sua alta performance e eficiência, especialmente em aplicações de grande escala e sistemas que requerem alta confiabilidade
+- Tipagem estática, exigindo que o tipo de cada variável seja declarado, o que pode ajudar a evitar erros em tempo de compilação
+- Também possui uma comunidade grande e madura, com muitos recursos e ferramentas de desenvolvimento 
+
+2 - Execução dos códigos 
+
+*Python*
+
+print("Olá, meu nome é Giovanna")
+
+*JavaScript*
+
+console.log("Olá, meu nome é Giovanna");
+
+*Java*
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Olá, meu nome é Giovanna");
+    }
+}
